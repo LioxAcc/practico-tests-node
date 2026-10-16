@@ -1,5 +1,4 @@
-![Tests](https://github.com/LioxAcc/practico-tests-
-node/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/LioxAcc/practico-tests-node/actions/workflows/tests.yml/badge.svg)
 
 # practico-tests-node
 ¿Por qué el compañero no encontró el bug probando solo con 40000 y 60000?
